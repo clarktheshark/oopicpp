@@ -1,4 +1,6 @@
 *.cpp~
 *.cp*#
 *.out
+*.[tT][xX][tT]
+*.[dD][aA][tT]
 #*#
